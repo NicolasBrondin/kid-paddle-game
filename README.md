@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Blorks: The Game
 
-[Game Screen Shot][product-screenshot]
+[![Game Screen Shot][product-screenshot]]
 
 I made this game to improve my Unity skills, to challenge myself to build a game from a to z, and share it with people on my Twitch channel !
 
